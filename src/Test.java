@@ -11,7 +11,6 @@ public class Test {
         System.out.println(f1 == f2);
         System.out.println(f3 == f4);
         
-        float f=3.4f;
         
         short ss=1;
         ss += 1;
